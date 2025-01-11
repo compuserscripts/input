@@ -123,7 +123,7 @@ local InputMap = {
     [KEY_SEMICOLON] = {normal = ";", shift = ":"},
     [KEY_APOSTROPHE] = {normal = "'", shift = "\""},
     [KEY_COMMA] = {normal = ",", shift = "<"},
-    [KEY_PERIOD] = {normal = ".",", shift = ">"},
+    [KEY_PERIOD] = {normal = ".", shift = ">"},
     [KEY_SLASH] = {normal = "/", shift = "?"},
     [KEY_BACKQUOTE] = {normal = "`", shift = "~"}
 }
